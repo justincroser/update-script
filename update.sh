@@ -1,6 +1,6 @@
 #Dependancies Neofetch. Plus Piholes / Flatpak / Snaps if used. Works with Debian / Ubuntu / Fedora based systems. Comment out whats not needed in this case uncomment what you do need so it works.
 
-#Don't forget to CHMOD + x this file to make it executable but I should've already done that for you' and make sure to run as sudo ie sudo bash file name.
+#Don't forget to CHMOD + x this file to make it executable but I should've already done that for you' and make sure to run as sudo ie sudo bash update.sh
 
 #Made by Justin Croser https://justincroser.io I am not responsible for any breakages use at your own risk however I doubt it will be a problem with the script except an distribution update / dependancy issue' 
 
